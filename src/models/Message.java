@@ -21,7 +21,7 @@ import javax.persistence.Table;
 
 })
 
-@Table(name ="mesages")
+@Table(name ="messages")
 
 public class Message {
     @Id
